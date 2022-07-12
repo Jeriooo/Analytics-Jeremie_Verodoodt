@@ -29,6 +29,8 @@ GENERAL DATA ANALYTICS:
   
   FINANCIAL MODELLING: 
   
+  ![](https://github.com/Jeriooo/Aura_Analytics-/blob/main/images/Capture.PNG)
+  
     Budgets:  
       Operational, capital expenditure, cash flow 
     
