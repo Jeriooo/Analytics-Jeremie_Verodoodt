@@ -2,13 +2,36 @@
 Portfolio of service offerings
 
 
-DEFACTO ANALYTICS 
 
-REPORTS AND DASHBOARDS (Including cleaning) 
+GENERAL DATA ANALYTICS: 
 
-OPERATIONAL , CAPITAL AND CASH FLOW BUDGETS
-
-VALUATION MODELING (Detailed inlcuding visualisations) 
-
-ADVANCED ANALYTICS / STATISTICAL ANALYTICS 
-
+  TIER 1: 
+    PROCESSING AND WRANGLING
+    {VBA, Power Query, Power Pivot, Python, SQL}
+    
+    DESCRIPTIVE ANALYTICS
+    {Excel and Python}
+    
+  TIER 2: 
+    DATA GENERATION:
+    {Scraping}
+    
+    ADVANCED ANALYTICS: 
+    {Market/Business research, general statistical analysis, ML statistical modelling}
+    
+VISUALISATIONS: 
+ 
+  Dashboards 
+  {Excel, Power BI}
+  
+  Reports 
+  {Python and Power BI}
+  
+FINANCIAL MODELLING: 
+  
+  Budgets:  
+    Operational, capital expenditure, cash flow 
+    
+  Valuations: 
+    Active "operational" assets, Real Estate, Business (ecommerce, start-up, other) 
+      
