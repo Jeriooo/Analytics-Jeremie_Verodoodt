@@ -22,10 +22,10 @@ GENERAL DATA ANALYTICS:
   VISUALISATIONS: 
  
     Dashboards 
-    {Excel, Power BI}
+      {Excel, Power BI}
   
-  Reports 
-  {Python and Power BI}
+    Reports 
+      {Python and Power BI}
   
   FINANCIAL MODELLING: 
   
