@@ -3,7 +3,7 @@ Portfolio of service offerings
 
 
 
-GENERAL DATA ANALYTICS: 
+# GENERAL DATA ANALYTICS: 
 
   TIER 1: 
     PROCESSING AND WRANGLING
@@ -19,7 +19,7 @@ GENERAL DATA ANALYTICS:
     ADVANCED ANALYTICS: 
     {Market/Business research, general statistical analysis, ML statistical modelling}
     
-  VISUALISATIONS: 
+  # VISUALISATIONS: 
  
     Dashboards 
       {Excel, Power BI}
@@ -27,7 +27,7 @@ GENERAL DATA ANALYTICS:
     Reports 
       {Python and Power BI}
   
-  FINANCIAL MODELLING: 
+  # FINANCIAL MODELLING: 
   
   ![](/images/Capture.PNG)
   
