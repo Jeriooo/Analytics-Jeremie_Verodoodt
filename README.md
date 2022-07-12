@@ -19,19 +19,19 @@ GENERAL DATA ANALYTICS:
     ADVANCED ANALYTICS: 
     {Market/Business research, general statistical analysis, ML statistical modelling}
     
-VISUALISATIONS: 
+  VISUALISATIONS: 
  
-  Dashboards 
-  {Excel, Power BI}
+    Dashboards 
+    {Excel, Power BI}
   
   Reports 
   {Python and Power BI}
   
-FINANCIAL MODELLING: 
+  FINANCIAL MODELLING: 
   
-  Budgets:  
-    Operational, capital expenditure, cash flow 
+    Budgets:  
+      Operational, capital expenditure, cash flow 
     
-  Valuations: 
-    Active "operational" assets, Real Estate, Business (ecommerce, start-up, other) 
+    Valuations: 
+      Active "operational" assets, Real Estate, Business (ecommerce, start-up, other) 
       
