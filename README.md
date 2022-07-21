@@ -1,33 +1,33 @@
 # Aura_Analytics-
 Portfolio of service offerings
 
-
-
-# GENERAL DATA ANALYTICS: 
-
-  TIER 1: 
-    PROCESSING AND WRANGLING
-    {VBA, Power Query, Power Pivot, Python, SQL}
-    
-    DESCRIPTIVE ANALYTICS
-    {Excel and Python}
-    
-  TIER 2: 
+# DATA ENGINEERING: 
+  
     DATA GENERATION:
     {Scraping, ETL}
     
-    ADVANCED ANALYTICS: 
-    {Market/Business research, general statistical analysis, ML statistical modelling}
+    PROCESSING AND WRANGLING
+    {VBA, Power Query, Power Pivot, Python, SQL}
     
-  # VISUALISATIONS: 
- 
+# BUSINESS INTELLIGENCE
+
     Dashboards (operational and executive)
       {Excel, Power BI, Tableau}
   
     Reports 
       {Python and Excel}
-  
-  # FINANCIAL MODELLING: 
+
+    
+# OPERATIONAL ANALYTICS: 
+ 
+  DESCRIPTIVE analytics , What if analysis
+   {Excel and Python}
+    
+  ADVANCED ANALYTICS: 
+    {ML statistical modelling}
+ 
+
+# FINANCIAL MODELLING: 
   
   ![](/images/Capture.PNG)
   
