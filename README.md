@@ -14,18 +14,18 @@ Portfolio of service offerings
     
   TIER 2: 
     DATA GENERATION:
-    {Scraping}
+    {Scraping, ETL}
     
     ADVANCED ANALYTICS: 
     {Market/Business research, general statistical analysis, ML statistical modelling}
     
   # VISUALISATIONS: 
  
-    Dashboards 
-      {Excel, Power BI}
+    Dashboards (operational and executive)
+      {Excel, Power BI, Tableau}
   
     Reports 
-      {Python and Power BI}
+      {Python and Excel}
   
   # FINANCIAL MODELLING: 
   
