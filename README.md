@@ -17,15 +17,13 @@ Portfolio of service offerings
     Reports 
       {Python and Excel}
 
-    
 # OPERATIONAL ANALYTICS: 
- 
-  DESCRIPTIVE analytics , What if analysis
+ Tier 1:
+  DESCRIPTIVE analytics , what if analysis, probabalistic modelling
    {Excel and Python}
-    
+ Tier 2:
   ADVANCED ANALYTICS: 
     {ML statistical modelling}
- 
 
 # FINANCIAL MODELLING: 
   
