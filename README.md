@@ -2,12 +2,9 @@
 Portfolio of service offerings
 
 # DATA ENGINEERING: 
-  
-    DATA GENERATION:
-    {Scraping, ETL}
     
     PROCESSING AND WRANGLING
-    {VBA, Power Query, Power Pivot, Python, SQL}
+    {SQL, Python, Power Query, Power Pivot, VBA}
     
 # BUSINESS INTELLIGENCE
 
@@ -17,13 +14,13 @@ Portfolio of service offerings
     Reports 
       {Python and Excel}
 
-# OPERATIONAL ANALYTICS: 
+# BUSINESS ANALYTICS: 
  Tier 1:
-  DESCRIPTIVE analytics , what if analysis, probabalistic modelling
+  DESCRIPTIVE , DIAGNOSIC and PRESCRIPTIVE analytics (excel scenario, sensitivity, optimisation, and python statistical analysis)
    {Excel and Python}
  Tier 2:
   ADVANCED ANALYTICS: 
-    {ML statistical modelling}
+    {Strategic consutling as well as ML statistical modelling} 
 
 # FINANCIAL MODELLING: 
   
@@ -33,5 +30,5 @@ Portfolio of service offerings
       Operational, capital expenditure, cash flow 
     
     Valuations: 
-      Active "operational" assets, Real Estate, Business (ecommerce, start-up, other) 
+      Project/Capital Expenditure, Real Estate, Business (ecommerce, start-up, other) 
       
