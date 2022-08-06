@@ -3,7 +3,7 @@
 
 Portfolio of service offerings
 
-# 1 DATA ENGINEERING:
+## 1 DATA ENGINEERING:
 > Generation and development of data into reliable and timely information.
     
     PROCESSING AND WRANGLING:
@@ -12,7 +12,7 @@ Portfolio of service offerings
     EXAMPLES: 
         CFI power query, 
 
-# 2  BUSINESS ANALYTICS: 
+## 2  BUSINESS ANALYTICS: 
 > Turning information into actionable insights.
 
  Tier 1:
@@ -32,7 +32,7 @@ Portfolio of service offerings
     Valuations: 
       Project/Capital Expenditure, Real Estate, Business (ecommerce, start-up, other) 
       
-# 3 BUSINESS INTELLIGENCE
+## 3 BUSINESS INTELLIGENCE
 > Helping bridge the gap between insights and intuition/understanding.
 
     Dashboards (operational and executive)
