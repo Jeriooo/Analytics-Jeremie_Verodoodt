@@ -4,7 +4,7 @@
 ## 1/3: DATA ENGINEERING:
 > Generation and development of data into reliable and timely information.
     
-  ### Processing and wrangling:
+### Processing and wrangling:
     {SQL, Python, Power Query, Power Pivot, VBA}
     
     *EXAMPLES:*
@@ -13,13 +13,13 @@
 ## 2/3:  BUSINESS ANALYTICS: 
 > Turning information into actionable insights.
 
- ### Tier 1:
+### Tier 1:
   DESCRIPTIVE , DIAGNOSIC and PRESCRIPTIVE analytics (excel scenario, sensitivity, optimisation, and python statistical analysis)
    {Excel and Python}
- ### Tier 2:
+### Tier 2:
   ADVANCED PREDICTIVE analytics: 
     {Strategic consutling as well as ML statistical modelling} 
- ### Tier 3: 
+### Tier 3: 
    FINANCIAL MODELLING:  
   
   ![](/images/Capture.PNG)
@@ -33,9 +33,9 @@
 ## 3/3: BUSINESS INTELLIGENCE
 > Helping bridge the gap between insights and intuition/understanding.
 
-   ### Dashboards (operational and executive):
+### Dashboards (operational and executive):
       {Excel, Power BI, Tableau}
   
-   ### Reports:
+### Reports:
       {Python and Excel}
       
