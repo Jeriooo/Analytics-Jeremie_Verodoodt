@@ -3,7 +3,7 @@
 
 ## 1/3: DATA ENGINEERING:
 > Generation and development of data into reliable and timely information.
-STACK: Python & SQL
+    STACK: Python & SQL
 
 ![](/images/Spyder.png)
 ![](/images/Python_i.PNG) 
