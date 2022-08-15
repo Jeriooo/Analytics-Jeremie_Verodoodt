@@ -9,8 +9,17 @@
     
     *EXAMPLES:*
         CFI power query, 
+        
+## 2/3: BUSINESS INTELLIGENCE
+> Turning information into a more intuitive format.
 
-## 2/3:  BUSINESS ANALYTICS: 
+### Dashboards (operational and executive):
+      {Excel, Power BI, Tableau}
+  
+### Reports:
+      {Python and Excel}
+      
+## 3/3:  BUSINESS ANALYTICS: 
 > Turning information into actionable insights.
 
 ### Tier 1:
@@ -30,12 +39,4 @@
     Valuations: 
       Project/Capital Expenditure, Real Estate, Business (ecommerce, start-up, other) 
       
-## 3/3: BUSINESS INTELLIGENCE
-> Helping bridge the gap between insights and intuition/understanding.
 
-### Dashboards (operational and executive):
-      {Excel, Power BI, Tableau}
-  
-### Reports:
-      {Python and Excel}
-      
