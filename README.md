@@ -3,18 +3,26 @@
 
 ## 1/3: DATA ENGINEERING:
 > Generation and development of data into reliable and timely information.
+
+![](/images/Spyder.png)
+![](/images/SQL_i.PNG)    -spyder
     
 ### Processing and wrangling:
     {SQL, Python, Power Query, Power Pivot, VBA}
     
     *EXAMPLES:*
         CFI power query, 
+ ![](/images/PowerQuery_i.PNG) -sql, power query, power
         
 ## 2/3: BUSINESS INTELLIGENCE
 > Turning information into a more intuitive format.
 
+![](/images/Capture.PNG) - power pivot 
+
 ### Dashboards (operational and executive):
       {Excel, Power BI, Tableau}
+      
+![](/images/screenshot.png) - tableau and 
   
 ### Reports:
       {Python and Excel}
