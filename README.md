@@ -18,7 +18,7 @@
         
 ## 2/3: BUSINESS INTELLIGENCE
 > Developing information into knowledge and intuition.
-STACK: Python, Power Pivot, Excel, Power BI, Tableau
+- STACK: Python, Power Pivot, Excel, Power BI, Tableau
 
 ![](/images/Capture.PNG) - power pivot 
 
