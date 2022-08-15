@@ -10,13 +10,14 @@
 ![](/images/ERD_i.PNG)
     
 ### Processing and wrangling:
-STACK: Python, SQL, Power Query, Power Pivot, VBA
+> Converting data into reliable and timely information.
+- STACK: Python, SQL, Power Query, Power Pivot, VBA
     
 ![](/images/SQL_i.PNG)
 ![](/images/PowerQuery_i.PNG) 
         
 ## 2/3: BUSINESS INTELLIGENCE
-> Turning information into a more intuitive format.
+> Developing information into knowledge and intuition.
 STACK: Python, Power Pivot, Excel, Power BI, Tableau
 
 ![](/images/Capture.PNG) - power pivot 
@@ -30,7 +31,7 @@ STACK: Python, Power Pivot, Excel, Power BI, Tableau
       {Python and Excel}
       
 ## 3/3:  BUSINESS ANALYTICS: 
-> Turning information into actionable insights.
+> Creating actionable insights from complex situations/events. 
 
 ### Tier 1:
   DESCRIPTIVE , DIAGNOSIC and PRESCRIPTIVE analytics (excel scenario, sensitivity, optimisation, and python statistical analysis)
