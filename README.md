@@ -3,19 +3,21 @@
 
 ## 1/3: DATA ENGINEERING:
 > Generation and development of data into reliable and timely information.
+STACK: Python & SQL
 
 ![](/images/Spyder.png)
-![](/images/SQL_i.PNG)    -spyder
+![](/images/Python_i.PNG) 
+![](/images/ERD_i.PNG)
     
 ### Processing and wrangling:
-    {SQL, Python, Power Query, Power Pivot, VBA}
+STACK: Python, SQL, Power Query, Power Pivot, VBA
     
-    *EXAMPLES:*
-        CFI power query, 
- ![](/images/PowerQuery_i.PNG) -sql, power query, power
+![](/images/SQL_i.PNG)
+![](/images/PowerQuery_i.PNG) 
         
 ## 2/3: BUSINESS INTELLIGENCE
 > Turning information into a more intuitive format.
+STACK: Python, Power Pivot, Excel, Power BI, Tableau
 
 ![](/images/Capture.PNG) - power pivot 
 
