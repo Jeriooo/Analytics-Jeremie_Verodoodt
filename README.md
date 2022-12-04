@@ -1,7 +1,6 @@
 
 **Portfolio of service offerings:**
 
-Offerings split in 2 primary sections: 
 1 -> Data Supply: {Data Engineering}
 
     ETL/ELT 
