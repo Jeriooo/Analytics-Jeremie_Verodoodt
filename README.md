@@ -28,10 +28,10 @@
 ![](/images/PowerQuery_i.PNG)
 ![](/images/ERD_i.PNG)
 ![](/images/SQL_i.PNG)
-![](/images/SQL_i.PNG)
         
 ## 2: BUSINESS INTELLIGENCE
 
+![](/images/screenshot.png) 
 ![](/images/Capture.PNG)      
-![](/images/screenshot.png) - 
-![](/images/Capture.PNG)
+
+
