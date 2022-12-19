@@ -39,6 +39,7 @@ Contact details: [xxx]
 BIO: 
 
 The advent of large scale data creation systems has forever changed the landscape under which all businesses function. 
+
 Aurara Analytics' mission is to assit C-suit executives and buisiness owners alike to not only make sense of the overwhelming sea of information but enable them to 
 utilse their newfound understanding in making confident, buisness savvy decisions.
 
