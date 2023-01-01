@@ -1,6 +1,4 @@
 
-" Understanding the past, informing the present and securing the future "
-
 Contact details: auraanalyticsa@gmail.com
 
 **Portfolio of service offerings:**
