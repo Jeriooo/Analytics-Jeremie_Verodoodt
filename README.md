@@ -31,6 +31,7 @@ Contact details: auraanalyticsa@gmail.com
 ![](/images/PowerQuery_i.PNG)
 ![](/images/ERD_i.PNG)
 ![](/images/Normalised.PNG)
+![](/images/Schema_PBIfinancialanalytics.PNG)
 
 ![](/images/SQL_i.PNG)
 
