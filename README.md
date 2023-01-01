@@ -1,7 +1,7 @@
 
 " Understanding the past, informing the present and securing the future "
 
-Contact details: thedefactoreturn@gmail.com
+Contact details: auraanalyticsa@gmail.com
 
 **Portfolio of service offerings:**
 
@@ -55,4 +55,4 @@ The advent of large scale data creation systems has forever changed the landscap
 Aurara Analytics' mission is to assit C-suit executives and buisiness owners alike to not only make sense of the overwhelming sea of data but enable them to 
 utilse their newfound understanding in making confident, buisness savvy decisions.
 
-Should you be interested in taking your company to the next level, please contact thedefactoreturn@gmail.com for a free consultation and pdf discussing the key underpinnings of the analytics environment.
+Should you be interested in taking your company to the next level, please contact auraanalyticsa@gmail.com for a free consultation and pdf discussing the key underpinnings of the analytics environment.
