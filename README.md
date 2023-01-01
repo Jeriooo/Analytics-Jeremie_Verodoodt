@@ -21,7 +21,7 @@ Contact details: thedefactoreturn@gmail.com
     
     Financial modeling: Business modeling (Operatinal, Cash flow and Capital expenditure) and Valuations
 
-##  EXAMPLES / Stack : Python, Power Query, PostgresSql, Azure data factory,Snowflake, Amazon Webservices
+##  PORTFOLIO examples: Engineering, BI and Analytics followed by BIO
 
 > Data engineering: 
 
