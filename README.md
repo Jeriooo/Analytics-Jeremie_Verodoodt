@@ -30,16 +30,23 @@ Contact details: thedefactoreturn@gmail.com
 
 ![](/images/PowerQuery_i.PNG)
 ![](/images/ERD_i.PNG)
+![](/images/Normalised.PNG)
+
 ![](/images/SQL_i.PNG)
 
 ##  EXAMPLES / Stack : Power BI, Tableau, Power Pivot, Excel with cube functions etc
 
 > Business intelligence
 
-![](/images/screenshot.png) 
-![](/images/Capture.PNG)      
+![](/images/Uni_work1.PNG) 
+![](/images/Uni_work2_Tab.PNG) 
+![](/images/Store_analysis_PBI.PNG) 
+![](/images/StoreAnalysis_PBI2.PNG) 
 
--- Power BI, better tableau photos, excel pivot 
+![](/images/SensitivityAnalysis2.PNG) 
+![](/images/SensitivityAnalysis.PNG) 
+![](/images/Operational_modeling.PNG) 
+![](/images/Capture.PNG)      
 
 BIO: 
 
