@@ -21,7 +21,7 @@ Contact details: thedefactoreturn@gmail.com
     
     Financial modeling: Business modeling (Operatinal, Cash flow and Capital expenditure) and Valuations
 
-##  PORTFOLIO examples: Engineering, BI and Analytics followed by BIO
+##  PORTFOLIO examples (scroll to end for BIO) 
 
 > Data engineering: 
 
