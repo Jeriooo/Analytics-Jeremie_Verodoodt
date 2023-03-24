@@ -5,19 +5,27 @@ Contact details: auraanalyticsa@gmail.com
 
 1 -> Data Supply: {Data Engineering}:
 
-    Data migration and sourcing (ETL/ELT)
+    INGESTION: 
+    > Independent tools: Python (Spyder and Jupyter) , Airflow, Talend
+    > Platform-related: SSIS and d
+    > (including orchestration and configuration tools): Python , Airflow , Talend, SSIS etc + Docker.
     
-    Data storage (Relational, NoSQL, Warehousing, Data lakes and Data marts)
+    PROCESSING: 
+    > Streaming: Apache Kafka
+    > Batch: Apache Spark
     
-    Ongoing operational optimisation and development 
+    STORAGE: 
+    > General relational database: Postgres, Sql server 
+    > Warehousing: Amazon Redshift, Snowflake, Azure Synaps 
+    > Data lakes: Amazon S3, Microsoft Azure Data Lake, Databricks 
     
 2 -> Data consumption: {Business Intelligence/Data Analytics}:
 
-    Dashboarding and automated reporting
+    General purpose analytics: Power Query, Power Pivot, Advanced Excel 
     
-    Advanced analytics: Statistical analytics & Machine learning 
+    Dashboarding: Advanced Power BI (including bookmarks, dynamic titles, mobile reporting etc)
     
-    Financial modeling: Business modeling (Operatinal, Cash flow and Capital expenditure) and Valuations
+    Machine learning / Business analytics: Advanced Excel (scenario analysis etc) and Python (Scikit-learn, TensorFlow, Pandas, Pytorch etc)
 
 ##  PORTFOLIO examples (scroll to end for BIO) 
 
