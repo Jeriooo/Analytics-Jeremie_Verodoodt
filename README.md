@@ -21,11 +21,9 @@ Contact details: auraanalyticsa@gmail.com
     
 2 -> Data consumption: {Business Intelligence/Data Analytics}:
 
-    General purpose analytics: Power Query, Power Pivot, Advanced Excel 
-    
-    Dashboarding: Advanced Power BI (including bookmarks, dynamic titles, mobile reporting etc)
-    
-    Machine learning / Business analytics: Advanced Excel (scenario analysis etc) and Python (Scikit-learn, TensorFlow, Pandas, Pytorch etc)
+    > General purpose analytics: Power Query, Power Pivot, Advanced Excel.
+    > Dashboarding: Advanced Power BI (including bookmarks, dynamic titles, mobile reporting etc)
+    > Machine learning / Business analytics: Advanced Excel (scenario analysis etc) and Python (Scikit-learn, TensorFlow, Pandas, Pytorch etc)
 
 ##  PORTFOLIO examples (scroll to end for BIO) 
 
@@ -59,6 +57,8 @@ BIO:
 
 The advent of large scale data creation systems has forever changed the landscape under which all businesses function. 
 
-Aurara Analytics' mission is to assit C-suit executives and enterprise stakeholders alike to not only structure the overwhelming sea of data but enable them to develop a newfound understanding for the purpose of making confident, buisness savvy decisions.
+My / Aurara Analytics' mission is to assit C-suit executives and enterprise stakeholders alike to not only structure the overwhelming sea of data but enable them to develop a newfound understanding for the purpose of making confident, buisness savvy decisions.
 
-Should you be interested in taking your company to the next level, please contact auraanalyticsa@gmail.com for a free consultation and pdf discussing the key underpinnings of the analytics environment.
+Should you be interested in taking your company to the next level, please contact auraanalyticsa@gmail.com for a free consultation. 
+
+NOTES: I/We have specialised experience within the financial sector ie Investments and Banking 
