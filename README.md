@@ -1,5 +1,5 @@
 
-Contact details: jeremieverdoodt@gmail.com
+Contact details: jeremieverdoodt@gmail.com // +356 77083944
 
 Hi there, welcome to my page! 
 
