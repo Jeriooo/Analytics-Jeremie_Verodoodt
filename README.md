@@ -5,7 +5,7 @@ Hi there, welcome to my page!
 
 The primary purpose of this avenue is to provide an overview of my **_Data-Specific_/Busines Intelligence** skillset along with various visualiations of work that I have conducted in the past. It is worth noting that my experience extends to the wider Computer Science field and other other domains such as Finance/Business and Mathematics. 
 
-*Full-spectrum Data Engineering project illustrations coming soon*
+~*Full-spectrum Data Engineering project illustrations coming soon*
 
 1 -> Data Supply / Engineering {Undergoing further study}
 
