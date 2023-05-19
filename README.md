@@ -1,23 +1,31 @@
 
-Contact details: auraanalyticsa@gmail.com
+Contact details: jeremieverdoodt@gmail.com
 
-**Portfolio of service offerings:**
+Hi there, welcome to my page! 
 
-1 -> Data Supply: {Data Engineering}:
+The primary purpose of this avenue is to provide an overview of my **_Data-Specific_/Busines Intelligence** skillset along with various visualiations of work that I have conducted in the past. It is worth noting that my experience extends to the wider Computer Science field and other other domains such as Finance/Business and Mathematics. 
+
+*Full-spectrum Data Engineering project illustrations coming soon*
+
+1 -> Data Supply / Engineering {Undergoing further study}
 
     INGESTION: 
-    > Independent tools: Python (Spyder and Jupyter) , Airflow, Talend
-    > Platform-related: SSIS and d
-    > (including orchestration and configuration tools): Python , Airflow , Talend, SSIS etc + Docker.
+    > Connection to API's and other internal systems via Python (Spyder and Jupyter)
+    > Direct-database extraction utilising SQL (Microsoft Azure SQL database)
     
-    PROCESSING: 
-    > Streaming: Apache Kafka
-    > Batch: Apache Spark
+    BUFFER/ORCHESTRACTION:
+    > Platform-dependent tools aside, airflow is the route of choice
+    > Batch scripting for minor projects
+    > Currently developing projects utilising Kafa
+   
+    PROCESSING:
+    > Stand procedure of implementing Spark for big data processing
+    > Docker as a platform development / software packaging tool
     
     STORAGE: 
-    > General relational database: Postgres, Sql server 
-    > Warehousing: Amazon Redshift, Snowflake, Azure Synaps 
-    > Data lakes: Amazon S3, Microsoft Azure Data Lake, Databricks 
+    > Relational database: Postgres
+    > Warehousing: Amazon Redshift, Snowflake and BigQuery 
+    > Data lakes: Amazon S3, MongoDD (No SQL), Elastic search 
     
 2 -> Data consumption: {Business Intelligence/Data Analytics}:
 
@@ -25,7 +33,7 @@ Contact details: auraanalyticsa@gmail.com
     > Dashboarding: Advanced Power BI (including bookmarks, dynamic titles, mobile reporting etc)
     > Machine learning / Business analytics: Advanced Excel (scenario analysis etc) and Python (Scikit-learn, TensorFlow, Pandas, Pytorch etc)
 
-##  PORTFOLIO examples (scroll to end for BIO) 
+##  PORTFOLIO examples
 
 > Data engineering: 
 
@@ -39,8 +47,6 @@ Contact details: auraanalyticsa@gmail.com
 
 ![](/images/SQL_i.PNG)
 
-##  EXAMPLES / Stack : Power BI, Tableau, Power Pivot, Excel with cube functions etc
-
 > Business intelligence
 
 ![](/images/Uni_work1.PNG) 
@@ -53,12 +59,4 @@ Contact details: auraanalyticsa@gmail.com
 ![](/images/Operational_modeling.PNG) 
 ![](/images/Capture.PNG)      
 
-BIO: 
-
-The advent of large scale data creation systems has forever changed the landscape under which all businesses function. 
-
-My / Aurara Analytics' mission is to assit C-suit executives and enterprise stakeholders alike to not only structure the overwhelming sea of data but enable them to develop a newfound understanding for the purpose of making confident, buisness savvy decisions.
-
-Should you be interested in taking your company to the next level, please contact auraanalyticsa@gmail.com for a free consultation. 
-
-NOTES: I/We have specialised experience within the financial sector ie Investments and Banking 
+>> END
