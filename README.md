@@ -5,14 +5,16 @@ Welcome!
 
 The primary purpose of this avenue is to provide an quick overview of my **_Data-Specific_/Busines Intelligence** skillset through illustrations of work that I have conducted in the past. 
 
-This page is broken down into 3 secions, namely projects pertaining to data ingestion/file management, data cleaning and modeling followed by visualisations. 
+This page is broken down into 3 secions, namely:
+ - [Data ingestion and file management](#Data-ingestion-and-file-management)
+- , [Data cleaning and normalising [SQL and Power Query] , Business operational analysis [Excel] followed by Visualisations [Power BI and Tableau] #
 
 - NOTE: 
  I am currenlty undergoing additional big data-specific projects (ie Linux and Docker, Airflow / Kafka , Elastic Search / Apache Spark/ Databricks / dbt , Amazon Redshift / Mongo DB/  Big Query / Snowflake etc)
 
 #  PORTFOLIO examples
 
-## Data ingestion / Manipulation [Python]
+## Data ingestion and file management
 ![](/images/Spyder.png)
 ![](/images/Python_i.PNG) 
 
@@ -23,7 +25,7 @@ This page is broken down into 3 secions, namely projects pertaining to data inge
 ![](/images/Schema_PBIfinancialanalytics.PNG)
 ![](/images/SQL_i.PNG)
 
-## Operational Modelling [Excel]
+## Business operational analysis [Excel]
 ![](/images/SensitivityAnalysis2.PNG) 
 ![](/images/SensitivityAnalysis.PNG) 
 ![](/images/Operational_modeling.PNG) 
