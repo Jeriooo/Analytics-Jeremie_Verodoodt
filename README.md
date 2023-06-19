@@ -5,7 +5,7 @@ Welcome!
 
 The primary purpose of this avenue is to provide an quick overview of my **_Data-Specific_/Busines Intelligence** skillset through illustrations of work that I have conducted in the past. 
 
-This page is broken down into 3 secions, namely:
+This page is broken down into 4 secions, namely:
  - [Data ingestion and file management](#Data-ingestion-and-file-management) 
  - [Data cleaning and normalising](#Data-cleaning-and-normalising)
  - [Business operational analysis](#Business-operational-analysis)
