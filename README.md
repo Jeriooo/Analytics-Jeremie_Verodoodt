@@ -3,7 +3,7 @@ Contact details: jeremieverdoodt@gmail.com // +356 77083944
 
 Welcome!
 
-The primary purpose of this avenue is to provide an quick overview of my **_Data-Specific_/Busines Intelligence** skillset through various visualiations of work that I have conducted in the past. This page is broken down into 3 secions, namely work pertaining to data ingestion/file management, data cleaning and modeling followed by visualisations. 
+The primary purpose of this avenue is to provide an quick overview of my **_Data-Specific_/Busines Intelligence** skillset through illustrations of work that I have conducted in the past. This page is broken down into 3 secions, namely projects pertaining to data ingestion/file management, data cleaning and modeling followed by visualisations. 
 
 - NOTE: 
  I am currenlty undergoing additional big data-specific projects (ie Linux and Docker, Airflow / Kafka , Elastic Search / Apache Spark/ Databricks / dbt , Amazon Redshift / Mongo DB/  Big Query / Snowflake etc)
