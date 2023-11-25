@@ -3,7 +3,7 @@ Contact details: jeremieverdoodt@gmail.com // +356 77083944
 
 Welcome!
 
-Every byte of data has a stroy to tell and the primary purpose of this avenue is to share my journey through the world of analytics and provide an overview of some of my work within it. My personal competencies can be broken down into the relms of finance/business , data engineering and mathematics/statistical analysis.
+Every byte of data has a stroy to tell and the primary purpose of this avenue is to share my journey through the world of analytics and provide an overview of some of my work within it. My personal competencies can be broken down into the relms of finance/business , data engineering/BI and mathematics/statistical analysis.
 
 This page is broken down into 4 secions, namely:
  - [Data ingestion and file management](#Data-ingestion-and-file-management) 
