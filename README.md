@@ -3,7 +3,7 @@ Contact details: jeremieverdoodt@gmail.com // +356 77083944
 
 Welcome!
 
-The primary purpose of this avenue is to provide an quick overview of my **_Data-Specific_/Busines Intelligence** skillset through illustrations of work that I have conducted in the past. 
+Every byte has a stroy to tell and the primary purpose of this avenue is to share my journey through the wolrd of analytics and provide an overview of some of my work within it. My personal competencies can be broken down into the relms of finance/business , data engineering and mathematics/statistical analysis.
 
 This page is broken down into 4 secions, namely:
  - [Data ingestion and file management](#Data-ingestion-and-file-management) 
