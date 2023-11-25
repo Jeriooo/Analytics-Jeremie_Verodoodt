@@ -11,7 +11,7 @@ This page is broken down into 4 secions, namely:
  - [Business operational analysis](#Business-operational-analysis)
  - [Visualisations](#Visualisations)
 
-Technologies utilised include **Python, Power Query, SQL and Excel**. It is worth noting that I am currently developing system based solutions for the purpose of Data Engineering that include  Linux and Docker, Airflow / Kafka , Elastic Search / Apache Spark/ Databricks / dbt , Amazon Redshift / Mongo DB/  Big Query / Snowflake etc)
+Technologies utilised include **Python, Power Query, extensive DML and DDL related SQL + DAX with Power BI and Excel**. It is worth noting that I am currently developing system based solutions for the purpose of Data Engineering that include  Linux and Docker, Airflow / Kafka , Elastic Search / Apache Spark/ Databricks / dbt , Amazon Redshift / Mongo DB/  Big Query / Snowflake etc)
 
 #  PORTFOLIO examples
 
